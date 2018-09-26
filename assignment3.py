@@ -1,3 +1,6 @@
+#Victor Alexandru ETI2IA
+#Student Number 459241
+
 n = 600851475143
 i = 2
 while i * i < n:
