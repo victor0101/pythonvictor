@@ -1,3 +1,7 @@
+#Victor Alexandru ETI2IA
+#Student Number 459241
+
+
 x = 1
 y = 1
 z = 0
