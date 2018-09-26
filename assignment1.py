@@ -1,3 +1,7 @@
+#Victor Alexandru ETI2IA
+#Student Number 459241
+
+
 x = 0
 
 for i in range(1000):
